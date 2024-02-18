@@ -2,6 +2,8 @@
 
  - Initialize the npm project with `npm init`
 
+ - Important: Node 20 is needed for this example to work.
+
 ### Understanding the dependencies
 
     "@babel/core": "^7.23.9",
