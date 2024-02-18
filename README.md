@@ -66,3 +66,7 @@ module: {
  - Running `npm run build` will build our app for production into the /dist directory
  - Without any extra plugins the styles will be pushed into our JS.
  - We can use Plugins like `mini-css-extract-plugin` to extract our styles to separate files
+
+ ### Source
+
+ Based on this tutorial: https://www.youtube.com/watch?v=WDpxqopXd9U
